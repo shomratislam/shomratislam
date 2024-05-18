@@ -10,4 +10,4 @@
 #### ☑️ WordPress ☑️ JavaScript ☑️ HTML5 / CSS3 / SASS / Bootstrap
 
 ## 📧 For Business Inquiries
-#### mailto: shomratislam706@gmail.com
+#### ↗️ shomratislam706@gmail.com
