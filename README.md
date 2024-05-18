@@ -8,11 +8,59 @@
 
 ## 💡 Skills & Experiance:
 #### ☑️ WordPress ☑️ JavaScript ☑️ HTML5 / CSS3 / SASS / Bootstrap
-##
 
 ## 📱 Connect with me!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/shomrat-islam-8527b426b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/shomrat.shajhan.75/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/shomrat.shajhan.75//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/ShomratIslam7)  
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+  .social-buttons {
+    display: flex;
+    gap: 10px;
+  }
+  .social-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    color: #fff;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+  .social-button img {
+    height: 40px;
+    width: 40px;
+  }
+</style>
+</head>
+<body>
+
+<div class="social-buttons">
+  <a href="https://www.linkedin.com/in/shomrat-islam-8527b426b/" class="social-button" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/shomrat.shajhan.75/" class="social-button" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/shomrat.shajhan.75/" class="social-button" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram">
+  </a>
+  <a href="https://twitter.com/ShomratIslam7" class="social-button" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter">
+  </a>
+  <a href="https://github.com/your-github-username" class="social-button" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub">
+  </a>
+</div>
 
 
 
