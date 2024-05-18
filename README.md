@@ -8,6 +8,7 @@
 
 ## 💡 Skills & Experiance:
 #### ☑️ WordPress ☑️ JavaScript ☑️ HTML5 / CSS3 / SASS / Bootstrap
+##
 
 ## 📱 Connect with me!
 
