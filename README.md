@@ -1,4 +1,4 @@
 ## Hi, I'm Shomrat Islam 👋
 
-## 📧 For Business Inquiries
+## 📧 Contact Me
 #### ↗️ shomratislam706@gmail.com
